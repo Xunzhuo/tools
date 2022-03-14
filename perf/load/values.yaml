@@ -1,4 +1,4 @@
-serviceGraphImage: gcr.io/istio-testing/isotope:0.0.3
+serviceGraphImage: ccr.ccs.tencentyun.com/kiali/isotope:0.0.3
 serviceNamePrefix: svc-
 requestSize: 128B
 responseSize: 1KiB
